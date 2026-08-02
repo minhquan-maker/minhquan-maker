@@ -27,4 +27,5 @@ own time.
 
 - GitHub: [@minhquan-maker](https://github.com/minhquan-maker)
 - LinkedIn: [Nguyen Minh Quan](https://www.linkedin.com/in/ngminhquan)
+- My personal site: (https://minhquannguyen.vercel.app/)
 - Email: minhquan.alex2512@gmail.com
