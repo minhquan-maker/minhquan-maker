@@ -11,7 +11,6 @@ the side projects I tinker with in my own time.
   aerial drone footage, with training, inference, and a Gradio demo.
 - **PennyWise** — A personal finance tracker with a dark, lime-accented UI,
   built end-to-end with React, Express, Prisma, and a Groq-powered AI summary.
-- **myportfolio** — A plain HTML/CSS/JS portfolio site, deployed on Vercel.
 - **micro-market-simulator** — A Python simulator for market microstructure,
   order-book mechanics, and trading agents.
 
