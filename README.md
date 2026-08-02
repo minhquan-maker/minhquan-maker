@@ -1,46 +1,29 @@
-## Nguyen Minh Quan
+# Hi, I'm Quan 👋
 
-**AI Researcher · Machine Learning Engineer · Startup Founder**
+2nd-year AI student at University of Technology Sydney and Ho Chi Minh
+University of Technology. I work with AquaGuard and co-run Odylytics, a small
+startup building practical AI products. This GitHub is where I keep some of
+the side projects I tinker with in my own time.
 
-_UTS · HCMUT · Co-founder @ Odylytics (AquaGuard) · Lab member @ URA Research Group_
+## What I'm working on
 
-Building at the intersection of Computer Vision, Human-Centered AI,
-and Disaster Response — with one shipped paper (KSE 2026) and a
-nationwide flood platform (AquaGuard.vn) behind it.
+- **Flood Drone CV** — A YOLOv11 pipeline that detects flood victims from
+  aerial drone footage, with training, inference, and a Gradio demo.
+- **PennyWise** — A personal finance tracker with a dark, lime-accented UI,
+  built end-to-end with React, Express, Prisma, and a Groq-powered AI summary.
+- **myportfolio** — A plain HTML/CSS/JS portfolio site, deployed on Vercel.
+- **micro-market-simulator** — A Python simulator for market microstructure,
+  order-book mechanics, and trading agents.
 
-`building:` AquaGuard v2 · KSE 2026 revisions · drone-CV pipeline
-`learning:` causal modelling · production ML systems · Swift
-`based in:` Ho Chi Minh City ⇄ Sydney
+## Tools I reach for
 
----
+- Frontend: React, TypeScript, Vite, Tailwind CSS
+- Backend: Node.js, Express, Prisma, PostgreSQL/SQLite
+- ML / data: Python, FastAPI, Gradio, Ultralytics YOLO
+- Infra: Vercel, Render, Docker
 
-<p align="left">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=minhquan-maker&theme=default&theme_color=4A7AB0&hide_border=true&show_icons=false&include_all_commits=true&rank_threshold=100" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquan-maker&theme=default&theme_color=4A7AB0&hide_border=true&layout=compact" />
-</p>
+## Get in touch
 
----
-
-### Featured Work
-
-**AquaGuard** — Flood rescue platform connecting citizens, rescuers, and admins
-in real time. Co-founder & full-stack engineer. React · Express · PostgreSQL ·
-SwiftUI · Firebase · Twilio. 1st place EPICS 8th (ASU, 2026).
-→ [github.com/shynnguyen1004/AquaGuard-WebApp](https://github.com/shynnguyen1004/AquaGuard-WebApp) · [aquaguard.vn](https://aquaguard.vn)
-
-**Drone-based Flood Victim Detection** — End-to-end YOLOv11 pipeline for
-aerial flood footage. Solo project. PyTorch · Ultralytics · Gradio · HF Spaces.
-→ [github.com/minhquan-maker/flood-rescue-cv](https://github.com/minhquan-maker/flood-rescue-cv)
-
-**CTSK-Former** *(to be submitted — KSE 2026)* — Spatio-temporal transformer
-for early action anticipation from 3D skeleton motion. 90.17% Mean EAA on
-PKU-MMD XView-M, +6.25pp vs HAPS-Former.
-→ [github.com/tuan8p/Early-Action-Anticipation-Model](https://github.com/tuan8p/Early-Action-Anticipation-Model)
-
----
-
-<a href="mailto:minhquan.nguyen-2@student.uts.edu.au">UTS Email</a> ·
-<a href="mailto:quan.nguyenalex2512@hcmut.edu.vn">HCMUT Email</a> ·
-<a href="https://www.linkedin.com/in/ngminhquan">LinkedIn</a> ·
-<a href="https://orcid.org/0009-0008-9621-1326">ORCID</a> ·
-<a href="https://github.com/minhquan-maker">GitHub</a>
+- GitHub: [@minhquan-maker](https://github.com/minhquan-maker)
+- LinkedIn: [Nguyen Minh Quan](https://www.linkedin.com/in/ngminhquan)
+- Email: minhquan.alex2512@gmail.com
