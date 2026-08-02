@@ -1,8 +1,8 @@
 # Hi, I'm Quan 👋
 
-2nd-year AI student at UTS and HCMUT, lab member at the URA Research Group.
-I work mostly on deep learning and computer vision, and co-run Odylytics, a
-small startup where we build practical AI products (including AquaGuard).
+2nd-year AI student at UTS and HCMUT, lab member at the URA Research Group,
+and co-founder of Odylytics, a small startup where we build practical AI products 
+(including AquaGuard or AirGuard).
 This GitHub is where I keep some of the side projects I tinker with in my
 own time.
 
