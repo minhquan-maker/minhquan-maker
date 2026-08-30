@@ -1,7 +1,7 @@
 # Hi, I'm Quan 👋
 
 2nd-year AI student at UTS and HCMUT, lab member at the URA Research Group,
-and co-founder of Odylytics, a small startup where we build practical AI products 
+**Associate (AI & Technology) at Block71 Vietnam**, and co-founder of Odylytics, a small startup where we build practical AI products 
 (including AquaGuard or AirGuard).
 
 This GitHub is where I keep some of the side projects I tinker with in my
@@ -23,14 +23,15 @@ own time.
 - Backend: Node.js, Express, Prisma, PostgreSQL/SQLite
 - Infra: Vercel, Render, Docker
 
+## Professional Certificates:
+
+- **Deep Learning with Python** — 3 Professional Certificates
+- **Microsoft Azure** — 2 Professional Certificates
+- **Product Management** — AHA! Professional Certificate
+
 ## Get in touch:
 
 - GitHub: [@minhquan-maker](https://github.com/minhquan-maker)
 - LinkedIn: [Nguyen Minh Quan](https://www.linkedin.com/in/ngminhquan)
 - My personal site: https://minhquannguyen.vercel.app/
 - Email: minhquan.alex2512@gmail.com
-
-## Some certificates I'm learning from (LinkedIn Learning):
-
-- Business Development: Strategic Planning
-- Deep Learning with Python: Convolutional Neural Networks / Sequence Models and Transformers / ... and more!
