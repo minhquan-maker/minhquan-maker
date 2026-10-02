@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:84cc16&height=180&section=header&text=Minh%20Quan%20Nguyen&fontColor=ffffff&fontSize=44&fontAlignY=40&desc=AI%20%C2%B7%20Research%20%C2%B7%20Ventures&descSize=16&descAlignY=62" alt="Minh Quan Nguyen" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=84CC16&center=true&vCenter=true&width=620&lines=AI+undergraduate+at+UTS+%C3%97+HCMUT;Co-founder+%26+CEO+at+Odylytics;Venture+Analyst+at+Block71+Vietnam" alt="Role summary" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=84CC16&center=true&vCenter=true&width=620&lines=AI+undergraduate+at+UTS+%C3%97+HCMUT;Co-founder+at+Odylytics;Venture+Analyst+at+Block71+Vietnam" alt="Role summary" />
 
 <p>
   <a href="https://www.linkedin.com/in/ngminhquan"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=84cc16" alt="LinkedIn" /></a>
@@ -19,12 +19,10 @@ learning research, venture scouting and market research across three markets (Vi
 Japan), and I have led cross-functional teams of up to 12 members. I am interested in applying AI
 and data to drive innovation and commercial growth in FMCG.
 
-| | |
-| --- | --- |
-| **Education** | B.Sc. Artificial Intelligence, University of Technology Sydney (TNE with HCMUT – VNU-HCM), 2025–2028. Cumulative GPA 3.8/4.0, WAM 88%, Dean's List 2026. |
-| **Venture Analyst** | [B71 Vietnam (NUSX)](https://block71.co/vietnam). Screened ~400 startups for the 84X programme and embedded AI tooling into the ventures workflow. |
-| **Co-founder & CEO** | [Odylytics](https://odylytics.com). Climate and sustainability data platform with 500+ active users and 5 ecosystem partners. |
-| **Research Assistant** | [URA Research Group, HCMUT](https://ura.hcmut.edu.vn). Deep learning for skeleton-based early action anticipation. |
+- **Education:** B.Sc. Artificial Intelligence, University of Technology Sydney (TNE with HCMUT – VNU-HCM), 2025–2028. Cumulative GPA 3.8/4.0, WAM 88%, Dean's List 2026.
+- **Venture Analyst**, [B71 Vietnam (NUSX)](https://block71.co/vietnam): screened ~400 startups for the 84X programme and embedded AI tooling into the ventures workflow.
+- **Co-founder**, [Odylytics](https://odylytics.com): climate and sustainability data platform with 500+ active users and 5 ecosystem partners.
+- **Research Assistant**, [URA Research Group, HCMUT](https://ura.hcmut.edu.vn): deep learning for skeleton-based early action anticipation.
 
 ## Projects
 
