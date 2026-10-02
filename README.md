@@ -76,10 +76,7 @@ Microsoft Azure (2 certificates), Product Management (AHA!), SQL Intermediate (H
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=minhquan-maker&show_icons=true&theme=radical&hide_border=true&bg_color=0f172a&title_color=84cc16&icon_color=84cc16" alt="GitHub stats" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquan-maker&layout=compact&theme=radical&hide_border=true&bg_color=0f172a&title_color=84cc16" alt="Top languages" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhquan-maker/minhquan-maker/output/github-snake-dark.svg" />
-  <img alt="Contribution graph" src="https://raw.githubusercontent.com/minhquan-maker/minhquan-maker/output/github-snake.svg" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=minhquan-maker&bg_color=0f172a&color=84cc16&line=84cc16&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
 
 </div>
 
