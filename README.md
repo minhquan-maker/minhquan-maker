@@ -87,6 +87,15 @@ Microsoft Azure (2 professional certificates) · Product Management (AHA!) · SQ
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhquan-maker&theme=radical&hide_border=true&background=0f172a&ring=84cc16&fire=84cc16&currStreakLabel=84cc16" alt="GitHub streak" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=minhquan-maker&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=minhquan-maker&bg_color=0f172a&color=84cc16&line=84cc16&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhquan-maker/minhquan-maker/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/minhquan-maker/minhquan-maker/output/github-snake.svg" />
+</picture>
+
 </div>
 
 ---
