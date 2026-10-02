@@ -44,10 +44,28 @@ I'm looking to drive innovation and commercial growth in **FMCG**.
 
 ---
 
-## 🔬 Research
+## 📌 Featured repos
+
+<div align="center">
+
+<a href="https://github.com/minhquan-maker/pennywise"><img src="https://github-readme-stats.vercel.app/api/pin/?username=minhquan-maker&repo=pennywise&theme=radical&hide_border=true&bg_color=0f172a&title_color=84cc16&icon_color=84cc16" alt="pennywise" /></a>
+<a href="https://github.com/minhquan-maker/flood-rescue-cv"><img src="https://github-readme-stats.vercel.app/api/pin/?username=minhquan-maker&repo=flood-rescue-cv&theme=radical&hide_border=true&bg_color=0f172a&title_color=84cc16&icon_color=84cc16" alt="flood-rescue-cv" /></a>
+<a href="https://github.com/minhquan-maker/micro-market-simulator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=minhquan-maker&repo=micro-market-simulator&theme=radical&hide_border=true&bg_color=0f172a&title_color=84cc16&icon_color=84cc16" alt="micro-market-simulator" /></a>
+<a href="https://github.com/minhquan-maker/sourcewatch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=minhquan-maker&repo=sourcewatch&theme=radical&hide_border=true&bg_color=0f172a&title_color=84cc16&icon_color=84cc16" alt="sourcewatch" /></a>
+
+</div>
+
+---
+
+<details>
+<summary><b>🔬 Research</b></summary>
+
+
 
 - **Skeleton-based early action anticipation** — IEEE KSE 2026 (B-rank, accepted, oral) and DAI 2026 (Q1, under review), with 2 more AI papers in progress.
 - Co-developed HCMUT's *Introduction to Computing* textbook (2026 edition).
+
+</details>
 
 ---
 
@@ -65,7 +83,10 @@ I'm looking to drive innovation and commercial growth in **FMCG**.
 
 ---
 
-## 🏆 Achievements
+<details>
+<summary><b>🏆 Achievements & certifications</b></summary>
+
+
 
 | Result | Contest | Level | When |
 | --- | --- | --- | --- |
@@ -75,6 +96,8 @@ I'm looking to drive innovation and commercial growth in **FMCG**.
 
 **Certifications:** Microsoft Azure AI Essentials · Deep Learning with Python (3 professional certificates) ·
 Microsoft Azure (2 professional certificates) · Product Management (AHA!) · SQL Intermediate (HackerRank)
+
+</details>
 
 ---
 
@@ -97,6 +120,13 @@ Microsoft Azure (2 professional certificates) · Product Management (AHA!) · SQ
 </picture>
 
 </div>
+
+---
+
+## ⚡ Recent activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
