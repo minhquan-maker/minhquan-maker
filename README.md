@@ -62,9 +62,9 @@ and data to drive innovation and commercial growth in FMCG.
 
 | Result | Contest | Level | Date |
 | --- | --- | --- | --- |
-| Top 1 | EPICS 8th Contest, Arizona State University & DOWVN | International | May 2026 |
-| Top 1 | OISP Presentation Contest, HCMUT | Institutional | Jan 2026 |
-| Top 2 | Bach Khoa Innovation, HCMUT | International | Sep 2026 |
+| 🥇 Top 1 | EPICS 8th Contest, Arizona State University & DOWVN | International | May 2026 |
+| 🥇 Top 1 | OISP Presentation Contest, HCMUT | Institutional | Jan 2026 |
+| 🥈 Top 2 | Bach Khoa Innovation, HCMUT | International | Sep 2026 |
 
 Certifications: Microsoft Azure AI Essentials, Deep Learning with Python (3 certificates),
 Microsoft Azure (2 certificates), Product Management (AHA!), SQL Intermediate (HackerRank).
