@@ -19,10 +19,10 @@ learning research, venture scouting and market research across three markets (Vi
 Japan), and I have led cross-functional teams of up to 12 members. I am interested in applying AI
 and data to drive innovation and commercial growth in FMCG.
 
-- **Education:** B.Sc. Artificial Intelligence, University of Technology Sydney (TNE with HCMUT – VNU-HCM), 2025–2028. Cumulative GPA 3.8/4.0, WAM 88%, Dean's List 2026.
-- **Venture Analyst**, [B71 Vietnam (NUSX)](https://block71.co/vietnam): screened ~400 startups for the 84X programme and embedded AI tooling into the ventures workflow.
-- **Co-founder**, [Odylytics](https://odylytics.com): climate and sustainability data platform with 500+ active users and 5 ecosystem partners.
-- **Research Assistant**, [URA Research Group, HCMUT](https://ura.hcmut.edu.vn): deep learning for skeleton-based early action anticipation.
+- B.Sc. Artificial Intelligence at University of Technology Sydney × HCMUT
+- Venture Analyst at [B71 Vietnam](https://block71.co/vietnam)
+- Co-founder at [Odylytics](https://odylytics.com)
+- Research Assistant at [URA Research Group](https://ura.hcmut.edu.vn), HCMUT
 
 ## Projects
 
