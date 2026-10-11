@@ -17,7 +17,7 @@
 AI undergraduate and early-stage founder based in Ho Chi Minh City, Vietnam. My work spans machine
 learning research, venture scouting and market research across three markets (Vietnam, Singapore,
 Japan), and I have led cross-functional teams of up to 12 members. I am interested in applying AI
-and data to drive innovation and commercial growth in FMCG.
+and data to drive innovation and tackle climate disasters in Vietnam.
 
 - B.Sc. Artificial Intelligence at University of Technology Sydney × HCMUT
 - Venture Analyst at [B71 Vietnam](https://block71.co/vietnam)
