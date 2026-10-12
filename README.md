@@ -19,7 +19,7 @@ learning research, venture scouting and market research across three markets (Vi
 Japan), and I have led cross-functional teams of up to 12 members. I am interested in applying AI
 and data to drive innovation and tackle climate disasters in Vietnam.
 
-- B.Sc. Artificial Intelligence at University of Technology Sydney × HCMUT
+- B.Sc. Artificial Intelligence at University of Technology Sydney & Ho Chi Minh University of Technology (UTS-HCMUT)
 - Venture Analyst at [B71 Vietnam](https://block71.co/vietnam)
 - Co-founder at [Odylytics](https://odylytics.com)
 - Research Assistant at [URA Research Group](https://ura.hcmut.edu.vn), HCMUT
