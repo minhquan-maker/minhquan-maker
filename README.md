@@ -22,7 +22,7 @@ and data to drive innovation and tackle climate disasters in Vietnam.
 - B.Sc. Artificial Intelligence at University of Technology Sydney & Ho Chi Minh University of Technology (UTS-HCMUT)
 - Venture Analyst at [B71 Vietnam](https://block71.co/vietnam)
 - Co-founder at [Odylytics](https://odylytics.com)
-- Research Assistant at [URA Research Group](https://ura.hcmut.edu.vn), HCMUT
+- Research Assistant at [URA Research Group](https://ura.hcmut.edu.vn), HCMUT, VN.
 
 ## Projects
 
