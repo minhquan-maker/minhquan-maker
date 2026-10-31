@@ -71,9 +71,9 @@ Microsoft Azure (2 certificates), Product Management (AHA!), SQL Intermediate (H
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=minhquan-maker&show_icons=true&hide_border=true&bg_color=141413&title_color=d97757&icon_color=d4a27f&text_color=e8e6dc" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhquan-maker&layout=compact&hide_border=true&bg_color=141413&title_color=d97757&text_color=e8e6dc" alt="Top languages" />
-
+<a href="https://github.com/minhquan-maker"><img src="https://img.shields.io/github/followers/minhquan-maker?label=Followers&style=for-the-badge&labelColor=141413&color=d97757&logo=github&logoColor=e8e6dc" alt="Followers" /></a>
+<a href="https://github.com/minhquan-maker?tab=repositories"><img src="https://img.shields.io/github/stars/minhquan-maker/pennywise?label=pennywise%20stars&style=for-the-badge&labelColor=141413&color=d4a27f&logo=github&logoColor=e8e6dc" alt="pennywise stars" /></a>
+<a href="https://github.com/minhquan-maker/flood-rescue-cv"><img src="https://img.shields.io/github/languages/top/minhquan-maker/flood-rescue-cv?label=flood-rescue-cv&style=for-the-badge&labelColor=141413&color=d97757" alt="Top language" /></a>
 
 </div>
 
