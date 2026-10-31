@@ -1,16 +1,8 @@
-<div align="center">
+# Minh Quan Nguyen
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141413,100:d97757&height=180&section=header&text=Minh%20Quan%20Nguyen&fontColor=ffffff&fontSize=44&fontAlignY=40&desc=AI%20%C2%B7%20Research%20%C2%B7%20Ventures&descSize=16&descAlignY=62" alt="Minh Quan Nguyen" />
+AI undergraduate at UTS × HCMUT · Co-founder at Odylytics · Venture Analyst at Block71 Vietnam
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=D97757&center=true&vCenter=true&width=620&lines=AI+undergraduate+at+UTS+%C3%97+HCMUT;Co-founder+at+Odylytics;Venture+Analyst+at+Block71+Vietnam" alt="Role summary" />
-
-<p>
-  <a href="https://www.linkedin.com/in/ngminhquan"><img src="https://img.shields.io/badge/LinkedIn-141413?style=flat-square&logo=linkedin&logoColor=d97757" alt="LinkedIn" /></a>
-  <a href="https://minhquannguyen.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-141413?style=flat-square&logo=vercel&logoColor=d97757" alt="Portfolio" /></a>
-  <a href="mailto:minhquan.alex2512@gmail.com"><img src="https://img.shields.io/badge/Email-141413?style=flat-square&logo=gmail&logoColor=d97757" alt="Email" /></a>
-</p>
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/ngminhquan) · [Portfolio](https://minhquannguyen.vercel.app/) · [Email](mailto:minhquan.alex2512@gmail.com)
 
 ## About me
 
@@ -34,13 +26,6 @@ and data to drive innovation and tackle climate disasters in Vietnam.
 | [pennywise](https://github.com/minhquan-maker/pennywise) | Personal finance tracker with AI-generated spending summaries. | React, Express, Prisma |
 | [micro-market-simulator](https://github.com/minhquan-maker/micro-market-simulator) | Simulator for market microstructure, order-book mechanics and trading agents. | Python |
 
-<div align="center">
-
-<a href="https://github.com/minhquan-maker/pennywise"><img src="https://github-readme-stats.vercel.app/api/pin/?username=minhquan-maker&repo=pennywise&hide_border=true&bg_color=141413&title_color=d97757&icon_color=d4a27f&text_color=e8e6dc" alt="pennywise" /></a>
-<a href="https://github.com/minhquan-maker/flood-rescue-cv"><img src="https://github-readme-stats.vercel.app/api/pin/?username=minhquan-maker&repo=flood-rescue-cv&hide_border=true&bg_color=141413&title_color=d97757&icon_color=d4a27f&text_color=e8e6dc" alt="flood-rescue-cv" /></a>
-
-</div>
-
 ## Research
 
 - Skeleton-based early action anticipation: IEEE KSE 2026 (B-rank, accepted, oral) and DAI 2026 (Q1, under review). Two further papers in progress.
@@ -48,11 +33,7 @@ and data to drive innovation and tackle climate disasters in Vietnam.
 
 ## Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,react,ts,nodejs,postgres,docker,vercel,git&perline=10&theme=dark" alt="Technology stack" />
-
-</div>
+**Languages & tools:** Python, PyTorch, FastAPI, React, TypeScript, Node.js, PostgreSQL, Docker, Vercel, Git.
 
 **Data & analytics:** SQL, Power BI, Tableau, market sizing, competitor analysis, survey and interview research.
 
@@ -67,19 +48,7 @@ and data to drive innovation and tackle climate disasters in Vietnam.
 Certifications: Microsoft Azure AI Essentials, Deep Learning with Python (3 certificates),
 Microsoft Azure (2 certificates), Product Management (AHA!), SQL Intermediate (HackerRank).
 
-## GitHub
-
-<div align="center">
-
-<a href="https://github.com/minhquan-maker"><img src="https://img.shields.io/github/followers/minhquan-maker?label=Followers&style=for-the-badge&labelColor=141413&color=d97757&logo=github&logoColor=e8e6dc" alt="Followers" /></a>
-<a href="https://github.com/minhquan-maker?tab=repositories"><img src="https://img.shields.io/github/stars/minhquan-maker/pennywise?label=pennywise%20stars&style=for-the-badge&labelColor=141413&color=d4a27f&logo=github&logoColor=e8e6dc" alt="pennywise stars" /></a>
-<a href="https://github.com/minhquan-maker/flood-rescue-cv"><img src="https://img.shields.io/github/languages/top/minhquan-maker/flood-rescue-cv?label=flood-rescue-cv&style=for-the-badge&labelColor=141413&color=d97757" alt="Top language" /></a>
-
-</div>
-
 ## Recent activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141413,100:d97757&height=80&section=footer" alt="" width="100%" />
