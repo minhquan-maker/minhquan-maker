@@ -11,7 +11,7 @@ learning research, venture scouting and market research across three markets (Vi
 Japan), and I have led cross-functional teams of up to 12 members. I am interested in applying AI
 and data to drive innovation and tackle climate disasters in Vietnam.
 
-- B.Sc. Artificial Intelligence at University of Technology Sydney & Ho Chi Minh University of Technology (UTS-HCMUT)
+- Bachelor of AI at UTS × HCMUT
 - Venture Analyst at [B71 Vietnam](https://block71.co/vietnam)
 - Co-founder at [Odylytics](https://odylytics.com)
 - Research Assistant at [URA Research Group](https://ura.hcmut.edu.vn), HCMUT, VN.
@@ -34,9 +34,19 @@ and data to drive innovation and tackle climate disasters in Vietnam.
 
 ## Stack
 
-**Languages & tools:** Python, PyTorch, FastAPI, React, TypeScript, Node.js, PostgreSQL, Docker, Vercel, Git.
-
-**Data & analytics:** SQL, Power BI, Tableau, market sizing, competitor analysis, survey and interview research.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 ## Recognition
 
