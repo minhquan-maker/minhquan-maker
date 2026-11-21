@@ -22,13 +22,17 @@ and data to drive innovation and tackle climate disasters in Vietnam.
 | --- | --- | --- |
 | [AquaGuard](https://aquaguard.vn) | Flood coordination platform. Led a team of 12+; validated with 500+ users and secured USD 4,000+ in grants. | Python, FastAPI, React, PostgreSQL |
 | [EnableCode](https://enablecode.vercel.app) | Accessible, hands-free coding platform using facial gestures and visual programming. | React, Vercel |
+| [Svaro](https://svaro.odylytics.com) | AI assistant that answers customer questions about stock, orders and deliveries in seconds. | — |
+| [Includio](https://includio.odylytics.com) | AI-assisted interview preparation platform for neurodivergent individuals, including people with ADHD. | — |
+| [Movago](https://movago.odylytics.com) | AI tool that audits every freight charge against its shipment before payment. | — |
 | [flood-rescue-cv](https://github.com/minhquan-maker/flood-rescue-cv) | YOLOv11 pipeline detecting flood victims in aerial drone footage, with a Gradio demo. | PyTorch, Ultralytics |
 | [pennywise](https://github.com/minhquan-maker/pennywise) | Personal finance tracker with AI-generated spending summaries. | React, Express, Prisma |
 | [micro-market-simulator](https://github.com/minhquan-maker/micro-market-simulator) | Simulator for market microstructure, order-book mechanics and trading agents. | Python |
 
 ## Research
 
-- Skeleton-based early action anticipation: IEEE KSE 2026 (B-rank, accepted, oral) and DAI 2026 (Q1, under review). Two further papers in progress.
+- [Accepted] IEEE KSE 2026 - Leveraging 3D Skeleton Motion for Early Action Anticipation via Spatio-Temporal Causal Modeling (2nd author)
+- [Accepted] IEEE ICLT 2026 - Consumer Electronics Physiological Data as a Foundation for Physics-Informed Neural Networks (2nd author)
 - Co-developed HCMUT's *Introduction to Computing* textbook (2026 edition).
 
 ## Stack
@@ -43,7 +47,9 @@ and data to drive innovation and tackle climate disasters in Vietnam.
 | --- | --- | --- | --- |
 | Top 1 | EPICS 8th Contest, Arizona State University & DOWVN | International | May 2026 |
 | Top 1 | OISP Presentation Contest, HCMUT | Institutional | Jan 2026 |
+| Top 1 | KTC Business Hackathon | National | 2026 |
 | Top 2 | Bach Khoa Innovation, HCMUT | International | Sep 2026 |
+| Top 2 | HPCC Hackathon | Institutional | 2026 |
 
 Certifications: Microsoft Azure AI Essentials, Deep Learning with Python (3 certificates),
 Microsoft Azure (2 certificates), Product Management (AHA!), SQL Intermediate (HackerRank).
