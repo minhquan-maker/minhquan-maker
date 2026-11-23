@@ -53,7 +53,7 @@ and data to drive innovation and tackle climate disasters in Vietnam.
 | --- | --- | --- | --- |
 | Top 1 | EPICS 8th Contest, ASU & DOWVN | International | 2026 |
 | Top 1 | OISP Presentation Contest, HCMUT | Institutional | 2026 |
-| Top 1 | KTC Business Hackathon | National | 2026 |
+| Top 1 | KTC Business Hackathon, K-College | National | 2026 |
 | Top 2 | Bach Khoa Innovation, HCMUT | International | 2026 |
 | Top 2 | HPCC Hackathon, HCMUT | Institutional | 2026 |
 
